@@ -1,2 +1,2 @@
 # test
-学习GIT测试
+Bower、Gulp、Grunt、node、yeoman
